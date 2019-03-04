@@ -58,11 +58,21 @@ Therefore our bunch of mass that warps our 4D spacetime, is actually causing obj
 Assisted explainer: quoted from [reddit](https://www.reddit.com/r/space/comments/ahj48d/gravity_visualized_using_spandex_and_weights/):
 
 ```
-When looking at 4D space-time, you have coordinates (t, x, y, z). t (called coordinate time) is usually in units of meters, where x seconds equals cx meters (c = the speed of light).
+When looking at 4D space-time, you have coordinates (t, x, y, z).
 
-To describe motion through space-time you generally parameterise by what's called proper time, usually denoted tau, and usually measured in units of seconds. So it becomes (t(tau), x(tau), y(tau), z(tau)).
+t (called coordinate time) is usually in units of meters, where x seconds equals cx meters (c = the speed of light).
 
-When you're not moving through space, t = tau * c. It turns out that the "velocity" (it's properly called "four-velocity") of your movement is always c: If you're standing still, you're moving at speed c through time. If you're moving (through space), you're moving slower through time, such that the total (four-)speed is still c.
+To describe motion through space-time you generally parameterise by what's called proper time, usually denoted tau, and usually measured in units of seconds.
+
+So it becomes (t(tau), x(tau), y(tau), z(tau)).
+
+When you're not moving through space, t = tau * c.
+
+It turns out that the "velocity" (it's properly called "four-velocity") of your movement is always c:
+
+If you're standing still, you're moving at speed c through time.
+
+If you're moving (through space), you're moving slower through time, such that the total (four-)speed is still c.
 ```
 
 This all really opens up many more questions.  I'm just trying to make sense of popular theories on Gravity and as a result have kind of pushed them all together...at least my understanding has improved, but accurately?
