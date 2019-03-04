@@ -1,8 +1,8 @@
-mathematician---
+---
 layout: post
 title:  "Gravity"
 date:   2019-02-11 15:18:27 +1000
-categories: gravity physics
+categories: gravity physics Einstein relativity time spacetime
 ---
 
 # Gravity explainer
@@ -42,6 +42,8 @@ From this theory it seems that in essence gravity is an imaginary or pseudo forc
 OK, so at a certain level we can see that mass influences other mass by warping (the fabric of) spacetime...but, how at the Quantum level is this done...how is this information "transmitted"...this I'll investigate in the future.
 
 Gravity "travels" at the speed of light, the fastest speed information can travel at; so if a blackhole appears suddenly 1 light year away if will take a whole year before we notice it's presence not only in the way that light is not being bent around it but also in the gravitational sense (assuming we are looking right in the place it was when it appeared, bearing in mind both you and the black hole would have moved a lot in that year relative to each other)   
+
+Maybe now E=mc<sup>2</sup> will make a little more sense, trying plugging some numbers into [Wolfram EM](https://www.wolframalpha.com/input/?i=e%3Dmc2) and play with them.
 
 ## How time slows down
 
@@ -87,5 +89,3 @@ I am not a physicist or mathematician
 * [Proper time](https://en.m.wikipedia.org/wiki/Proper_time)
 
 * [Collected papers of Albert Einstein](https://web.archive.org/web/20120204074848/http://www.alberteinstein.info/gallery/pdf/CP6Doc30_English_pp146-200.pdf)
-
-* [Wolfram EM](https://www.wolframalpha.com/input/?i=e%3Dmc2)
