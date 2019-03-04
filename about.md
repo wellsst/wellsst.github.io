@@ -8,7 +8,7 @@ permalink: /about/
 
 I'm no expert, not at all on most of the things I'll read about.  But I try to
 be objective.  This I write about to simply maintain and hopefully improve my
-writing ability and to improve memory of the topics.
+writing ability, and to improve memory and knowledge of the topics.
 
 The aim is to write on the given topic once a month and about 500 words.  
 This sounds achievable; even though I've tried to start such things a few times before this time I'd really really like to keep it going!
