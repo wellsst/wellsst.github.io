@@ -12,6 +12,8 @@ categories: jekyll update
 
 I am not a physicist or mathematician
 
+## Additional Points
+
 ## For further investigation
 
 *

@@ -81,6 +81,12 @@ This all really opens up many more questions.  I'm just trying to make sense of 
 
 I am not a physicist or mathematician
 
+## Additional Points
+
+Long term space flight (eg a 3 year return flight to Mars) also does horrible things to the body.  There is a fluid shift which can damage the retina permanently,
+ability to absorb nutrition changes as does the nutrition in the food itself.  
+Plus many possible psychological issues.
+
 ## For further investigation
 
 * Gravitational waves
