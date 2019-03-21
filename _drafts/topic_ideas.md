@@ -25,3 +25,6 @@ Is it better to be relaxed or tense during an accident?
 Radiation types - spectrum
 
 Jetlag
+
+Earth magnetic field caused by moon?
+https://www.reddit.com/r/askscience/comments/b0d7in/can_you_use_a_regular_compass_on_mars/
