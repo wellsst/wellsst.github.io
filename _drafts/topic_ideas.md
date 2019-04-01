@@ -24,6 +24,8 @@ Is it better to be relaxed or tense during an accident?
 
 Radiation types - spectrum
 
+Applications of Origami
+
 Jetlag
 
 Earth magnetic field caused by moon?
