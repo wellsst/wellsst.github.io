@@ -19,7 +19,15 @@ I am not a physicist or mathematician
 *
 
 
-## Deeper reading
+## Deeper reading - references
 *
 
 * [Wolfram EM](https://www.wolframalpha.com/input/?i=e%3Dmc2)
+
+
+> Blockquote
+
+![alt text](http://path/to/img.jpg "Title")
+
+To force a line return, place two empty spaces at the end of a line.
+
