@@ -31,3 +31,14 @@ I am not a physicist or mathematician
 
 To force a line return, place two empty spaces at the end of a line.
 
+## Charts
+
+[https://mermaidjs.github.io/](https://mermaidjs.github.io/)
+
+<div class="mermaid">
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+</div>

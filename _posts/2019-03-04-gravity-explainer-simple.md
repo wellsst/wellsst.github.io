@@ -98,7 +98,12 @@ Plus many possible psychological issues.
 * [Which model?](https://physics.stackexchange.com/questions/463327/do-theoretical-physics-suggest-that-gravity-is-the-exchange-of-gravitons-or-defo)
 
 ## Deeper reading
+
 * [What space does to the human body](https://www.nasa.gov/hrp/bodyinspace)
+
+* [What space does to the human body - TWINS Study](https://theconversation.com/does-a-year-in-space-make-you-older-or-younger-111812)
+
+* [Twins paradox](https://www.scientificamerican.com/article/how-does-relativity-theor/)
 
 * [Four velocity](https://en.m.wikipedia.org/wiki/Four-velocity)
 
