@@ -132,6 +132,7 @@ I am not a physicist or mathematician
 
 * [Wolfram EM](https://www.wolframalpha.com/input/?i=e%3Dmc2)
 
+[Bitcoin how miner adds transactions to the blockchain](https://blog.goodaudience.com/how-a-miner-adds-transactions-to-the-blockchain-in-seven-steps-856053271476)
 
 > Blockquote
 
