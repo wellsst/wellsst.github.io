@@ -21,7 +21,7 @@ But what is the recommendation for putting any old oils into your most important
 
 Edible oils are derived from plants and animals.  Basically they're a fuel, long burning as different to sugars which prove a quicker but shorter shot of energy.  Olive oil has been used to power modern Antarctic adventures, imagine consuming a liter of the stuff in a day just to maintain at least 12,000 calories/day intake. 
 
-Oils are essential beyond being a fuel.  They also contain many other useful molecules such as Omega-3-6-9 fatty acids that the human body cannot produce by itself.   They protect your organs, keeep your body warm and are essential to the manufacture of hormones.
+Oils are essential beyond being a fuel.  They also contain many other useful molecules such as Omega-3-6-9 fatty acids that the human body cannot produce by itself.   They protect your organs, keep your body warm and are essential to the manufacture of hormones.
 
 They also aid in the absorption of the fat soluble vitamins A, D, E and K (careful of too much of a good thing though).  
 
