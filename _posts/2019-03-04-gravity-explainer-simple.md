@@ -7,6 +7,8 @@ categories: gravity physics Einstein relativity time spacetime
 
 # Gravity explainer
 
+![Gravity](https://farm5.staticflickr.com/4104/5039037155_5f9f27e37e_m.jpg "gravity")
+
 A short explainer to help get my mind around this immense topic.
 
 What is gravity?  To the average being it is a 'force' that is all around pulling us toward each other, it holds us on the ground.  On earth it is something that we are fully accustomed to and are entirely dependant upon for our existence.  Putting humans in low-G for extended time periods such as going to space is bad for your health, we lose about 1% bone minerals per month (if you remain quite sedentary) and muscle mass also quickly diminishes.  Looking beyond humans gravity also plays a role in maintaining Earths atmosphere (Earths magnetic field plays a huge role as well).
