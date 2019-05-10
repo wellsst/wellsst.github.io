@@ -8,17 +8,16 @@ categories: health fat oils
 # Comparing edible Oils
 
 <div style="width:100%">
-![Oils]([http://path/to/img.jpg](https://search.creativecommons.org/photos/a1983863-6263-4115-ab11-0f2098f61398) "Oils")
+
+![Oils](https://www.seriouseats.com/images/2014/04/20140428-oils-horizontal.jpg "Oils")
 </div>
 
 There was an amusing advertisement on Australian TV in the late 80's that spruiked the catchphrase
-("Oils ain't oils")[https://www.youtube.com/watch?v=OVIOZR9Sy4Q].
+["Oils ain't oils"](https://www.youtube.com/watch?v=OVIOZR9Sy4Q).
+
 Sure it was for vehicle oils, the ad showing that you shouldn't just put any oil in your car you should use Castrol only vs putting in any cheap other brand.
 
 But what is the recommendation for putting any old oils into your most important vehicle...your body?
-
-
-![Oils]https://www.seriouseats.com/images/2014/04/20140428-oils-horizontal.jpg "")
 
 
 ## The importance of oils
@@ -29,7 +28,7 @@ Oils are essential beyond being a fuel.  They also contain many other useful mol
 
 They also aid in the absorption of the fat soluble vitamins A, D, E and K (careful of too much of a good thing though).  
 
-There is also evidence to suggest that a diet with the right balance of good oils or fats can actually aid in weightloss since you will not be feeling hungry as much.
+There is also evidence to suggest that a diet with the right balance of good oils or fats can actually aid in weight-loss since you will not be feeling hungry as much.
 
 ## Taxonomy of oils
 
@@ -64,7 +63,7 @@ Copra oil is extracted from dried coconut and requires some chemical refining, b
 
    * Grapeseed oil - is low in saturated fat and has a high smoke point, which makes it a healthy choice for all kinds of cooking and grilling
 
-   * Macadamia oil - mechanically extracted in a technique similar to extra virgin olive oil. High in monounsaturates (about 80 per cent), it's more stable than many other polyunsaturated fats and has a high smoke point.
+   * Macadamia oil - mechanically extracted in a technique similar to extra virgin olive oil. High in mono-unsaturates (about 80 per cent), it's more stable than many other polyunsaturated fats and has a high smoke point.
 
    * Rice bran oil - Extracted from the bran and the germ, has a relatively high smoke point. Equal amounts of monounsaturated and polyunsaturated - and some good plant sterols but it's industrially processed, not mechanically extracted 
 
