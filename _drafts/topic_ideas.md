@@ -28,5 +28,9 @@ Applications of Origami
 
 Jetlag
 
+All types of rules or laws no matter how obscure
+
+Doppelgangers https://www.quora.com/What-is-the-weirdest-thing-you-have-ever-experienced-1
+
 Earth magnetic field caused by moon?
 https://www.reddit.com/r/askscience/comments/b0d7in/can_you_use_a_regular_compass_on_mars/

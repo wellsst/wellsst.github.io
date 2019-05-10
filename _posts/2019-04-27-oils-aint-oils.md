@@ -7,6 +7,10 @@ categories: health fat oils
 
 # Comparing edible Oils
 
+<div style="width:100%">
+![Oils]([http://path/to/img.jpg](https://search.creativecommons.org/photos/a1983863-6263-4115-ab11-0f2098f61398) "Oils")
+</div>
+
 There was an amusing advertisement on Australian TV in the late 80's that spruiked the catchphrase
 ("Oils ain't oils")[https://www.youtube.com/watch?v=OVIOZR9Sy4Q].
 Sure it was for vehicle oils, the ad showing that you shouldn't just put any oil in your car you should use Castrol only vs putting in any cheap other brand.

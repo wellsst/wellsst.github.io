@@ -1,16 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Words I should know"
 date:   2019-02-11 15:18:27 +1000
 categories: jekyll update
 ---
 
-# Heading 1
+# Words I should know - but use rarely and forget
 
+![alt text]([http://path/to/img.jpg](https://search.creativecommons.org/photos/0fe83e0a-97f4-44db-9d20-62970ef9f81d) "Words")
+
+1. banal -
+2. 
+3. 
 
 ## Disclaimer
 
-I am not a physicist or mathematician
+None really, I'm a native English speaker, there is no excuse for this but I'm working on it
 
 ## Additional Points
 
@@ -27,7 +32,9 @@ I am not a physicist or mathematician
 
 > Blockquote
 
-![alt text](http://path/to/img.jpg "Title")
+![alt text]([http://path/to/img.jpg](https://search.creativecommons.org/photos/0fe83e0a-97f4-44db-9d20-62970ef9f81d) "Words")
+
+
 
 Images: https://search.creativecommons.org/
 

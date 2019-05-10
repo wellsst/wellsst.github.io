@@ -113,7 +113,7 @@ Parallel banking
 
 ## Disclaimer
 
-I am not a physicist or mathematician
+I am not (yet) a blockchain expert
 
 ## Additional Points
 
@@ -125,6 +125,7 @@ I am not a physicist or mathematician
 ## Deeper reading - references
 
 * [Original whitepaper](https://bitcoin.org/bitcoin.pdf)
+* [Consensus overview](https://www.coindesk.com/short-guide-blockchain-consensus-protocols)
 
 ## References
 
