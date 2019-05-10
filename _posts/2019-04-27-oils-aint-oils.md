@@ -7,10 +7,7 @@ categories: health fat oils
 
 # Comparing edible Oils
 
-<div style="width:100%">
-
 ![Oils](https://www.seriouseats.com/images/2014/04/20140428-oils-horizontal.jpg "Oils")
-</div>
 
 There was an amusing advertisement on Australian TV in the late 80's that spruiked the catchphrase
 ["Oils ain't oils"](https://www.youtube.com/watch?v=OVIOZR9Sy4Q).
