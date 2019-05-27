@@ -5,13 +5,24 @@ date:   2019-02-11 15:18:27 +1000
 categories: jekyll update
 ---
 
-# Words I should know - but use rarely and forget
+# Words I should know...
 
-![alt text]([http://path/to/img.jpg](https://search.creativecommons.org/photos/0fe83e0a-97f4-44db-9d20-62970ef9f81d) "Words")
+...but rarely use and forget the meaning of
 
-1. banal -
-2. 
-3. 
+![Words](https://farm1.staticflickr.com/957/41066497834_12786f2448_b.jpg "Words")
+
+**amortised** - 
+
+**banal** - *so lacking in originality or too often used as to be obvious and boring.*  
+> The lyrics of this rock band is so banal.
+
+**bezel** - *a groove around an object, traditionally a gem, that holds it in place.  Today commonly referred to how the screen of a mobile device is held in place*
+> Wired: "the bezel—the band of material that separates your phone’s screen from its body—has all but disappeared in the past few years"
+sdfsdf
+
+**secular** - 
+
+**left/right wing** - 
 
 ## Disclaimer
 
