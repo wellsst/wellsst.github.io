@@ -20,9 +20,14 @@ categories: jekyll update
 > Wired: "the bezel—the band of material that separates your phone’s screen from its body—has all but disappeared in the past few years"
 sdfsdf
 
-**secular** - 
+**secular** - *not connected with religious or spiritual matters*, *non-religious*
+>
 
 **left/right wing** - 
+>
+
+**luddite** - *a person opposed to new technology or ways of working*; historically: *a member of any of the bands of English workers who destroyed machinery, especially in cotton and woollen mills, that they believed was threatening their jobs*
+> "there'll still be plenty of Luddite customers like me who are yet to embrace the future" 
 
 ## Disclaimer
 

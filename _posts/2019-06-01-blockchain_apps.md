@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Blockchain and its non-Bitcoin application"
-date:   2019-04-15 15:18:27 +1000
+date:   2019-06-01 15:18:27 +1000
 categories: blockchain bitcoin
 ---
+
+Still very much a Work in progress, will take months but getting it out there since time is up this month...
 
 ## Blockchain basics - What is it?
 
@@ -59,13 +61,43 @@ Banks and Fin's are adopting BC first as this seems the most obvious application
 
 Solar/wind and can sell excess and use IoT to facilitate the transfer of power.  Big cities could donate excess power to poorer areas
 
+### Finance
+
+Dharma
+
+inveniam.io
+
+Goldman Sachs and others are investing in their own crypto-currencies
+
+Interbank transfewrs
+
+Ripple Global Payments group
+
+SWIFT using hyperledger fabric
+
+
+
 ### IoT
 
-Connected devices
+Connected devices, BC can bring security and trust.  Can quarantine unknown or misbehaving IoT devices
+
+
 
 ### Procurement of goods between companies
 
 ### Insurance
+
+A clear history for insured products
+Automatic payouts
+Shorter wait times
+Fewer human errors
+Fraud detection
+
+Tokio Marine Insurance
+
+B3i
+
+AiGang
 
 ### Contracts
 
@@ -76,6 +108,11 @@ https://aeternity.com/
 Transactions are documented in a permanents decentralised ledger and can be monitored securely and transparently cutting.  Can monitor entire supply chain to reduce time, cost, labour, errors and allow improvements of the process.
 
 Rigid contracts as bad actors in the chain could be boycotted.
+
+Walmart, using Hyperledger
+
+Alibaba: reducing counterfeiting
+
 
 ### Agriculture
 
@@ -93,6 +130,41 @@ Prevent fraud used with processes in registrations, verification and vote counti
 
 Immutable, publicly viewable ledgers of recorded votes would make elections more fair and democratic
 
+### Travel and tourism
+
+#### Disintermediated bookings
+
+Winding tree
+Beenest/Beetoken - like AirBNB but decentralised
+
+#### Sharing econbomy
+
+Beenest
+TUI bedshare
+
+#### Rewards
+
+Trippki
+
+### Identity management
+
+SITA:
+Face recognition
+1 time se QR coeds
+
+Biometrics: ObjectTech 
+
+### Medical
+
+
+MedicalChain
+
+MedREC
+
+SweatCoin - exercise for tokens
+
+Mint Health
+
 ### News
 
 Can we prevent fake news?
@@ -103,9 +175,15 @@ Uber is not peer to peer as Uber is the middle man
 
 Arcade CiIty  & LaZooz
 
+MOBI - non-profit, aiming to make mobility services efficient, green, affordable, safe, and free of congestion.
+
 Automatically pay for parking, tolls and fuel - good for driverless cars.
 
+Mining of cars data, metrics such as mileage, efficiency
+
 ewallets being developed by innogy, zf and ubs
+
+Turo - airbnb for cars
 
 ### Data storage
 
@@ -115,7 +193,19 @@ Decentralised data storage
 
 Can track where donations are actually going
 
-see: BitGive
+Distribute crypto vouchers which can be exchanged for aid
+
+BitGive
+bifrost
+disberse
+
+### Real estate
+
+Use a blockchain land registry
+
+Propy
+Zebi
+Chromaway
 
 ### Chit funds ??  Kitty party
 
@@ -123,7 +213,15 @@ Parallel banking
 
 ## Blockchain platforms
 
+## When to not use Blockchain
 
+Efficiency!  In bitcoin buying  a coffee can take 10 minutes but not with card/cash but a foreign $ transfer in 10 mins is much more efficient than today taking possibly a few days
+
+Businesses - loss of control and therefore revenue when they are no longer the central controlling entity
+
+How to change a blockchain protocol with many actors already agreeing on it? 
+
+How to resolve issues without a central authority?  eg A blockchain AirBNB, how do you prove and get compensation if a client destroys your house?
 
 ## Disclaimer
 
@@ -135,11 +233,9 @@ I am not (yet) a blockchain expert
 
 ## Deeper reading - references
 
-* [Original whitepaper](https://bitcoin.org/bitcoin.pdf)
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+* [Original Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
 * [Consensus overview](https://www.coindesk.com/short-guide-blockchain-consensus-protocols)
-
 * [edX Berkeley course](https://courses.edx.org/courses/course-v1:BerkeleyX+CS198.2x+1T2019)
-
 * [The Blockchain & Bitcoin - Computerphile](https://www.youtube.com/watch?v=qcuc3rgwZAE)
-
 * [Bitcoin how miner adds transactions to the blockchain](https://blog.goodaudience.com/how-a-miner-adds-transactions-to-the-blockchain-in-seven-steps-856053271476)
