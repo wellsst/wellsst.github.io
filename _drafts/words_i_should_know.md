@@ -11,20 +11,42 @@ categories: jekyll update
 
 ![Words](https://farm1.staticflickr.com/957/41066497834_12786f2448_b.jpg "Words")
 
-**amortised** - 
+**amortised** - *gradually write off the initial cost of (an asset) over a period.*, *reduce or pay off (a debt) with regular payments.*
+> "eighty per cent of the proceeds has been used to amortize the public debt"
 
 **banal** - *so lacking in originality or too often used as to be obvious and boring.*  
 > The lyrics of this rock band is so banal.
 
 **bezel** - *a groove around an object, traditionally a gem, that holds it in place.  Today commonly referred to how the screen of a mobile device is held in place*
 > Wired: "the bezel—the band of material that separates your phone’s screen from its body—has all but disappeared in the past few years"
-sdfsdf
+
+
+**disintermediation** - *reduction in the use of intermediaries between producers and consumers, for example by investing directly in the securities market rather than through a bank.*, *cutting out the middleman*
+>
 
 **secular** - *not connected with religious or spiritual matters*, *non-religious*
 >
 
+**efficacy** - *the ability to produce a desired or intended result.*
+> "despite the perceived rigour of our evidence-based approach, I never felt certain about our efficacy"
+
 **left/right wing** - 
+> 
+
+**solenoid** - 
+> 
+
+**fiat currency** - *is legal tender whose value is backed by the government that issued it.*
+> "The U.S. dollar is fiat money, as are the euro and many other major world currencies" 
+
+**eustress** - *beneficial stress*
 >
+
+**provenance** - *the place of origin or earliest known history of something.*, *the beginning of something's existence; something's origin.*
+> "they try to understand the whole universe, its provenance and fate"
+
+**providence** - *the protective care of God or of nature as a spiritual power.*
+> "they found their trust in divine providence to be a source of comfort"
 
 **luddite** - *a person opposed to new technology or ways of working*; historically: *a member of any of the bands of English workers who destroyed machinery, especially in cotton and woollen mills, that they believed was threatening their jobs*
 > "there'll still be plenty of Luddite customers like me who are yet to embrace the future" 

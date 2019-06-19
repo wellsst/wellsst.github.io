@@ -57,11 +57,21 @@ Blocks are mined which essentially means the value for the Nonce is solved for t
 
 Banks and Fin's are adopting BC first as this seems the most obvious applications
 
+### Cross-industry
+
+https://www.r3.com/
+
+Ethereum
+
+Quorum
+
 ### Electricity trading, eg cars with batteries distributing power
 
 Solar/wind and can sell excess and use IoT to facilitate the transfer of power.  Big cities could donate excess power to poorer areas
 
 ### Finance
+
+https://www.fnality.org/ 
 
 Dharma
 
@@ -214,6 +224,9 @@ Parallel banking
 ## Blockchain platforms
 
 ## When to not use Blockchain
+
+The whole thing hinges on the existing strengths of PKI but what if that can be broken quickly by using Quantum computers, then our existing chains will be useless and need to be rebuilt/thrown away? 
+https://www.technologyreview.com/s/613596/how-a-quantum-computer-could-break-2048-bit-rsa-encryption-in-8-hours/?utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter&utm_medium=tr_social
 
 Efficiency!  In bitcoin buying  a coffee can take 10 minutes but not with card/cash but a foreign $ transfer in 10 mins is much more efficient than today taking possibly a few days
 
