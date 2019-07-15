@@ -27,14 +27,21 @@ categories: jekyll update
 **secular** - *not connected with religious or spiritual matters*, *non-religious*
 >
 
+**altruism** - *disinterested and selfless concern for the well-being of others.*
+>
+
 **efficacy** - *the ability to produce a desired or intended result.*
 > "despite the perceived rigour of our evidence-based approach, I never felt certain about our efficacy"
 
 **left/right wing** - 
-> 
+>
 
 **solenoid** - 
-> 
+
+
+**inimitable** - *so good or unusual as to be impossible to copy; unique.*
+> "they took the charts by storm with their inimitable style"
+
 
 **fiat currency** - *is legal tender whose value is backed by the government that issued it.*
 > "The U.S. dollar is fiat money, as are the euro and many other major world currencies" 

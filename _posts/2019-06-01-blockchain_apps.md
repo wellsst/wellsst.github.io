@@ -53,6 +53,8 @@ Traditionally (from bitcoin) a block comprises:
 
 Blocks are mined which essentially means the value for the Nonce is solved for the hash of the block.
 
+> I can send you something digitally and prove that I don’t have it anymore. - https://twitter.com/jon_choi_
+
 ## Some use cases
 
 Banks and Fin's are adopting BC first as this seems the most obvious applications
@@ -64,6 +66,8 @@ https://www.r3.com/
 Ethereum
 
 Quorum
+
+In its simplest form a version of a Blockchain implementation can serve as a distributed database.
 
 ### Electricity trading, eg cars with batteries distributing power
 
@@ -85,7 +89,9 @@ Ripple Global Payments group
 
 SWIFT using hyperledger fabric
 
+### Government
 
+Estonia the 1st government to create and use blockchain: https://e-estonia.com/solutions/security-and-safety/ksi-blockchain/
 
 ### IoT
 
