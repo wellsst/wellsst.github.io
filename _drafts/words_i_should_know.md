@@ -36,7 +36,12 @@ categories: jekyll update
 **left/right wing** - 
 >
 
-**solenoid** - 
+**polemics** - *a strong verbal or written attack on someone or something.*, *the practice of engaging in controversial debate or dispute.*
+> "the history of science has become embroiled in religious polemics" 
+
+
+**solenoid** - *a coil wound into a tightly packed helix*, *a coil that is "pipe-like" in the sense that its length is substantially greater than its diameter. In practice, the coil is often wrapped around a metallic core, which produces a uniform magnetic field in a volume of space when an electric current is passed through it* (Wikipedia)
+
 
 
 **inimitable** - *so good or unusual as to be impossible to copy; unique.*
