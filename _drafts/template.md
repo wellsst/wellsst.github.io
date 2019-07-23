@@ -33,6 +33,11 @@ Images: https://search.creativecommons.org/
 
 To force a line return, place two empty spaces at the end of a line.
 
+Commented out:
+
+[//]: # (COmmented out!!!)
+
+
 ## Charts
 
 [https://mermaidjs.github.io/](https://mermaidjs.github.io/)
