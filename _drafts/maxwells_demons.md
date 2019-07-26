@@ -14,7 +14,7 @@ categories: physics
 
 ## Basics
 
-Maxwells Demon is a thought experiment that seeks to find a loophole in a law.  In the classic case it is applied to the Physics 2nd Law of Thermodynamics.
+Maxwells Demon is a thought experiment that seeks to find a loophole in a law.  In the classic case it is applied to the Physics 2nd Law of Thermodynamics.  It came about by James Clerk Maxwell, how was also one of the key participants of thermodynamics, that branch of physics that is concerned with the study of heat and temperature and their relation to energy, work and essentially energy flows.  The important thing was at the time he proposed this in the 1870s was that there was much interest, thought and experimentation given to producing more highly efficient steam powered machines; how can we get maximum power out of a machine?  
 
 The 2nd Law of Thermodynamics is concerned with heat exchange in systems in that heat energy flows to obtain equilibrium; heat energy will flow from an area of high energy (temperature) to an area of low energy.  Otherwise stated as seeking maximum Entropy or the state of maximum disorder or randomness.  
 
@@ -27,17 +27,21 @@ The Laws of Thermodynamics are beautifully expressed by the British comedy Duo i
 
 ## The Loophole
 
-The term "Demon" was an intentional one that was introduced by Lord Kelvin, it was intended to mean mediating though rather than the obvious malevolent connotation.
+The term "Demon" was an intentional one that was introduced by Lord Kelvin, it was intended to mean mediating though rather than the obvious malevolent connotation.  It was small and cunning enough to be able to discern the energy and trajectories of individual molecules.
 
-Now imagine a large box that is separated completely except for a small gate that can allow a particle through.  The gate is controlled by our imaginary Demon.  Assume both sides of the box are at maximum entropy and that the 2 sides are in equilibrium.  Some particles are hotter than others and move therefore faster, hotter = faster.  The trick our Demon can pull is that when a particle can enter the gate he can open the gate based on its energy or speed so perhaps only allowing hotter particles one way and cooler ones the other, thus one chamber can get hotter than the other.  The Demon has decreased the overall entropy, no laws were broken as the Demon is just being selective.
+Imagine a large box that is separated completely except for a small gate that can allow a particle through.  The gate is controlled by our imaginary Demon.  Assume both sides of the box are at maximum entropy and that the 2 sides are in equilibrium.  Some particles are hotter than others and move therefore faster, hotter = faster.  The trick our Demon can pull is that when a particle can enter the gate he can open the gate based on its energy or speed so perhaps only allowing hotter particles one way and cooler ones the other, thus one chamber can get hotter than the other.  The Demon has decreased the overall entropy, no laws were broken as the Demon is just being selective.  From this you have one side hotter than the other from which you could run an engine from, for free.  
+
+According to the 2nd Law there's a natural tendency for things to degenerate, it's easier to break it than make it, and the whole universe is on this one-way slide to a soup of nothingness.
 
 ## Can we build one?
 
 Spoiler: No
 
-The issue is with the 1st Law of Thermodynamics.  This is a version of the Law of Conservation of Energy (matter cannot be created nor destroyed but only converted from one state to another).  In Thermodynamics it states that the total energy of an isolated system is constant, energy can be transformed from one form to another, but cannot be created nor destroyed. 
+The issue is with the 1st Law of Thermodynamics.  This is a version of the Law of Conservation of Energy (matter cannot be created nor destroyed but only converted from one state to another).  In Thermodynamics it states that the total energy of an isolated system is constant, energy can be transformed from one form to another, but cannot be created nor destroyed.  Even the gathering of the information (or measuring) about whether an individual molecule is fast or slow interferes with that molecule. 
 
 So where does the Demon get its energy to do the work from?  Technically it is now part of the system, no system or work like this has yet been created to be 100% efficient.  In order to detect the particles and decide which is allowed through and open/close the gate there is a lot of effort put in, more than is gained the entropy change between the chambers.
+
+I lied we are now actualyl making them
 
 
 ## Disclaimer
