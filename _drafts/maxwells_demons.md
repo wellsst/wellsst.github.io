@@ -7,7 +7,6 @@ categories: physics
 
 # Maxwells Demons
 
-
 ![Hot Demon](https://farm4.staticflickr.com/3474/3764567644_3be6406ace_b.jpg "Hot Demon")
 
 *Source: https://search.creativecommons.org/photos/4d241002-e1f4-4a8f-9eac-2dfd5856aefb*

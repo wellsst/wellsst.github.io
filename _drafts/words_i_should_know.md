@@ -24,11 +24,18 @@ categories: jekyll update
 **disintermediation** - *reduction in the use of intermediaries between producers and consumers, for example by investing directly in the securities market rather than through a bank.*, *cutting out the middleman*
 >
 
+
+**cathartic** - *providing psychological relief through the open expression of strong emotions; causing catharsis.*
+> "crying is a cathartic release"
+
 **secular** - *not connected with religious or spiritual matters*, *non-religious*
 >
 
 **altruism** - *disinterested and selfless concern for the well-being of others.*
 >
+
+**ephemeral** - *lasting for a very short time.*
+> "fashions are ephemeral: new ones regularly drive out the old" 
 
 **efficacy** - *the ability to produce a desired or intended result.*
 > "despite the perceived rigour of our evidence-based approach, I never felt certain about our efficacy"
