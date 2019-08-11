@@ -11,6 +11,8 @@ categories: finances money retiring
 
 *Source: https://search.creativecommons.org/photos/00c87bd5-23f7-4ddb-9e56-7331eabaf841*
 
+This is the safe middle-of-the-road approach for the "average Joe" to achieve financial independence.
+
 ## Money grows
 
 Just not on trees but in a market.  It's been shown time over that money invested wisely (how to do that?) can grow, money makes money.
