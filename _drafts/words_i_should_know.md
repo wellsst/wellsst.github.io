@@ -31,6 +31,9 @@ categories: jekyll update
 **secular** - *not connected with religious or spiritual matters*, *non-religious*
 >
 
+**nefarious** - *(typically of an action or activity) wicked or criminal.*
+> "the nefarious activities of the organized-crime syndicates"
+
 **altruism** - *disinterested and selfless concern for the well-being of others.*
 >
 
