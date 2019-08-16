@@ -6,3 +6,5 @@ categories: space disaster asteroid
 ---
 
 What if an asteroid hits the other side of the planet to us??  Depends on size and where it hits
+
+https://www.grunge.com/161946/what-would-happen-if-an-asteroid-hit-earth/
