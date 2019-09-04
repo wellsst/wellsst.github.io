@@ -2,7 +2,7 @@
 layout: post
 title:  "Words I should know"
 date:   2019-02-11 15:18:27 +1000
-categories: jekyll update
+categories: words language english
 ---
 
 # Words I should know...
@@ -22,8 +22,10 @@ categories: jekyll update
 
 
 **disintermediation** - *reduction in the use of intermediaries between producers and consumers, for example by investing directly in the securities market rather than through a bank.*, *cutting out the middleman*
->
 
+
+**a priori** - *relating to or denoting reasoning or knowledge which proceeds from theoretical deduction rather than from observation or experience.*
+>"a priori assumptions about human nature"
 
 **cathartic** - *providing psychological relief through the open expression of strong emotions; causing catharsis.*
 > "crying is a cathartic release"
@@ -33,6 +35,9 @@ categories: jekyll update
 
 **nefarious** - *(typically of an action or activity) wicked or criminal.*
 > "the nefarious activities of the organized-crime syndicates"
+
+**nepotism** - *the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs.*
+> "his years in office were marked by corruption and nepotism"
 
 **altruism** - *disinterested and selfless concern for the well-being of others.*
 >
@@ -81,33 +86,11 @@ None really, I'm a native English speaker, there is no excuse for this but I'm w
 
 ## For further investigation
 
-*
-
+* [Online etymology dictionary](https://www.etymonline.com/)
 
 ## Deeper reading - references
-*
 
-* [Wolfram EM](https://www.wolframalpha.com/input/?i=e%3Dmc2)
-
-
-> Blockquote
-
-![alt text]([http://path/to/img.jpg](https://search.creativecommons.org/photos/0fe83e0a-97f4-44db-9d20-62970ef9f81d) "Words")
-
-
-
-Images: https://search.creativecommons.org/
-
-To force a line return, place two empty spaces at the end of a line.
-
-## Charts
-
-[https://mermaidjs.github.io/](https://mermaidjs.github.io/)
-
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+* [Collins dictionary](https://www.collinsdictionary.com/)
+* [Macquarie dictionary - Australian](https://www.macquariedictionary.com.au/)
+* [Lexico](https://www.lexico.com/en)
+* [Oxford Learners Dictionary](https://www.oxfordlearnersdictionaries.com/)

@@ -17,7 +17,7 @@ Now its a particaular regime of eating, many people follow different diets throu
 
 Rankings: https://health.usnews.com/best-diet/best-diets-overall
 
-Dont get your deit advice from a persons promoting their own 
+Dont get your diet advice from a persons promoting their own 
 
 
 ## Disclaimer

@@ -17,7 +17,9 @@ How this one occured and how we know
 
 Birds are dinos
 
+https://www.amazon.com/Dinosaurs-Rediscovered-Scientific-Revolution-Paleontology/dp/050005200X
 
+https://www.newyorker.com/magazine/2019/04/08/the-day-the-dinosaurs-died
 
 ## Disclaimer
 

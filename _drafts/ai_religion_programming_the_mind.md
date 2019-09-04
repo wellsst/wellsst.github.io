@@ -22,6 +22,9 @@ Thankfully the majority of us use the tools for their intended purpose
 
 Question: Do the benefits far outweigh the dark sides (and ramifications of them)?
 
+In emergency situations we fall back to our default position or most basic of trainings (see soldiers for example), I've seen in Dementia patients a similar thing in that they fall back to traits that were seen years earlier eg sleeping a lot, talking too much, forgetfulness on a small scale.  I had thought too that the condition amplified certain traits but its more like certain traits such as anything in a normal living spectrum are filtered out or more accurately just lost...forever.
+
+
 ## Disclaimer
 
 I am not a physicist or mathematician

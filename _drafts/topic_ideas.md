@@ -6,11 +6,16 @@ Psychology: https://www.psychologytools.com/worksheet/what-is-compassion-focused
 https://www.youtube.com/watch?v=VRqI4lxuXAw
 
 Gravity at the Quantum level - how is that "information" transmitted?
-https://www.ligo.caltech.edu/page/facts
+https://www.ligo.caltech.edu/page/facts  
+
 
 Magnetism
 
 Neutrinos
+
+Growing veges
+
+WTF is Cancer? The Science Show 31 Aug 2019
 
 Exercise Health topics
 

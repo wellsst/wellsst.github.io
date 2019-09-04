@@ -11,57 +11,73 @@ categories: finances money retiring
 
 *Source: https://search.creativecommons.org/photos/00c87bd5-23f7-4ddb-9e56-7331eabaf841*
 
-This is the safe middle-of-the-road approach for the "average Joe" to achieve financial independence.
+This is the safe middle-of-the-road approach for the "average person" to achieve financial independence...or at least head in the right direction.
 
 ## Money grows
 
-Just not on trees but in a market.  It's been shown time over that money invested wisely (how to do that?) can grow, money makes money.
+Not on trees kids but in a market.  It's been shown time over that money invested wisely can grow...money makes money.
 
-A best case example is of $25000 invested in the stock market returning an average 10%/year for 30 years, this will explode to $400,000.
+A best case example is of $25000 invested in the stock market returning an average 10%/year for 30 years, this will explode to $400,000.  You may have seen this kind of thing before and it is a nice way of explaining a couple of things.
 
-Rule of 7 ?  Doubles every 7 years
+1. Money can grow, yes there is always risk but my guiding general principal is the you only fail in anything by not giving it a go at all.
+2. Put some away and set it to work for you.
 
-In economic term there is an opportunity cost if you didn't invest some of your cash in this way.
+But there are some major caveats with this that the buyer must be aware of:
+1. Does it include all expenses and taxes?  Expenses may include brokerage, commissions.  This can eat away at the lovely looking 10%
+2. Is the percentage gain shown just the best possible scenario?  Markets fluctuate and maintaining a 10% over 30 years just wont happen.  
+3. Past performance is not an indicator for the future
+4. Is inflation taken into account.  In Australia inflation has been generally low since the 2000s averaging about 2%, but even that is enough to devalue year-on-year that $400,000.
+
+Another way to illustrate this is with the Rule of 72 - this is a general way of calculating how long it will take to double your invested money.  Take 72 divided by the expected return, eg:
+* Savings account @ 3%?  72 / 3 = 24; 24 years to double it
+* Share fund returning 8%? 72 / 8 = 9; 9 years to double it
+
+In summary: 
+
+In economic terms there is an opportunity cost if you didn't invest some of your cash in this way.
+
+Investing matters, percentages matter (depending on your risk profile), hidden costs/fees/inflation matters, time matters.
 
 ## Increase your income stream
 
-These days its so popular to throw around the "side-hustle" term.  Popular with digital nomads to do blogging.  Some people can do well with this but at what cost?
+These days its so popular to throw around the "side-hustle" term, this essentially means that it is good from a financial point of view to have multiple income streams.  This is nothing new but more recently is popular with digital nomads doing blogging and podcasting.  Some people can do well with this but at what cost?  Don't get obsessed or bogged down in it, you still have to have a life, money should only be there to support the life you need to maintain.
 
-Top places for income streams:
+Popular income streams:
 
 * Work for it
-* grow money in the share market either directly or via managed funds
+* Grow money in the share market either directly or via managed funds
 * Invest in property
 
-It's difficult and tempting to try and time the market, what should I buy and when?  Follow the old adage of "its not about timing the market its about time in the market"
-
-Dollar cost averaging -= keep pushing returns back in see Warren Buffett
+It's difficult and tempting to try and time the market, what should I buy and when?  Follow the old adage of "its not about timing the market its about time in the market" also known as dollar cost averaging - buy regularly and incrementally if your situation allows for it.
 
 ## Never retire
 
-Always nice to have the option though
+Always nice to have the option though.
 
 ## Scale down your home
 
-If you reach an age where the kids are grown upi then consider scaling down and using that spare cash by putting it to work in other places.
+If you reach an age where the kids are grown up then consider scaling down and using that spare cash by putting it to work in other places.
+
+Consider renting.  Your million dollar home could generate enough income stream to pay for your rent and more.
 
 Some people even house-sit for extended periods.
 
 ## Watch your outgoings
 
-Money is easy to spend, except perhaps in Brewsters Millions: https://en.wikipedia.org/wiki/Brewster%27s_Millions_(1985_film)
+Money is easy to spend, except perhaps in [Brewsters Millions](https://en.wikipedia.org/wiki/Brewster%27s_Millions_(1985_film)), but in the majority of cases it's hard to get and easy to let it flow away.
 
-Rich Dad poor dad
+According to Rich Dad poor dad by Robert Kiyosaki:
+....
 
 Do you really need that latest Tesla, nice to have but at what cost.  This is not an investment its a liability
 
 ## Work with your significant other
 
-Its important in anything that you and your partner present a united front or it's just not going to end well.  Sit down and have regular conversations about money, what are your individual and combined goals in life that solid finances are going to be required for.
+Its important in anything that you and your partner present a united front or it's just not going to go well.  Sit down and have regular conversations about money, what are your individual and combined goals in life that solid finances are going to be required for.  Have a plan (wo)man.
 
 ## Give something back
 
-If given or earned the opportunity, depending on where you live, then I implore you to give something back.  It doesnt have to be in financial ways but certainly it is a good thing to donate to a worthy and trustyworkty charity.  This alone can be thought of as a selfish endevour since giving really can make you feel good, it makes your heart grow and glow, try it, I dare you.
+If given or earned the opportunity, depending on where you live, then I implore you to give something back.  It doesn't have to be in financial ways but certainly it is a good thing to donate to a worthy and trustworthy charity.  This alone can be thought of as a selfish endeavour since giving really can make you feel good, it makes your heart grow and glow, try it, I dare you.
 
 An early retirement, without retiring, presents you with a bit more time on your hands so use that time for the good of your community and consider applying yourself to something as simple as Meals on Wheels, volunteering at your local parkrun ...???
 
@@ -69,6 +85,17 @@ An early retirement, without retiring, presents you with a bit more time on your
 
 When can I retire?  Or rather, have the option to.
 
+Gee who knows??  lets try and pin it down to a formula.
+
+Assumptions:
+You own your home
+You have no debt
+You have no dependants
+You have no 
+
+Variables:
+1. What is your individual or couple yearly expenditure? 
+2. 
 
 
 
