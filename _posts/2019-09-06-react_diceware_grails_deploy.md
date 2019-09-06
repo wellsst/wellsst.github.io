@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React with Grails on Heroku - Deploying it"
+title:  "React with Grails on CloudFoundry - Deploying it"
 date:   2019-08-19 00:00:00 +1000
 categories: software react Grails cloud Heroku
 ---

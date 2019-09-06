@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "React with Grails on Heroku"
+title:  "React with Grails on CloudFoundry"
 date:   2019-08-19 00:00:00 +1000
-categories: software react Grails Heroku
+categories: software react Grails Heroku CloudFoundry
 ---
 
-# React with Grails on Heroku
+# React with Grails on CloudFoundry
 
 ![Grails]({% link assets/grails_react.png %} "Grails React")
 
@@ -36,6 +36,8 @@ In a moment your default browser should open and you'll see the skeleton app:
 To start the Grails application:              `./gradlew server:bootRun`
 To start the client application:              `./gradlew client:bootRun`
 To start both client and Grails applications: `./gradlew bootRun --parallel`
+
+If you want to know just how to deploy then go to the [how to deploy this to the cloud.]({% link _posts/2019-09-06-react_diceware_grails_deploy.md %})
 
 ## Server-side
 
@@ -419,7 +421,7 @@ const client = new ApolloClient({
 
 You can see that the app morphed a little from when it was using Angular: https://medium.com/@wellsst/angular-with-grails-on-heroku-211e35177804 .  Overall I really like using React, it seems simpler, cleaner and more logical (than Angular) which *should* lead to a faster product release and more reliable product.  Angular has lost its way, its just become plain confusing and with each release even though the features are good it becomes difficult to stay in tune with, especially when you don't use it on a daily basis.
 
-Next Part I'll show how to deploy this to the cloud.
+[Next Part I'll show how to deploy this to the cloud.]({% link _posts/2019-09-06-react_diceware_grails_deploy.md %})
 
 ## Deeper reading - references
 

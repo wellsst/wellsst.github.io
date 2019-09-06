@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preserves Jams WTD Whats the Diff??"
+title:  "WTD:: Preserves Jams - Whats the Diff??"
 date:   2019-08-11 15:18:27 +1000
 categories: wtd food jams
 ---

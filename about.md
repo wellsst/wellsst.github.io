@@ -4,13 +4,19 @@ title: About
 permalink: /about/
 ---
 
-# About this site
+# About this
 
-I'm no expert, not at all on most of the things I'll read about.  But I try to
-be objective.  This I write about to simply maintain and hopefully improve my
-writing ability, and to improve memory and knowledge of the topics.
+I write on things I have little clue on, this serves a number purposes:
 
-The aim is to write on the given topic once a month and about 500 words.  
-This sounds achievable; even though I've tried to start such things a few times before this time I'd really really like to keep it going!
+* understand the topic
+* remember it
+* hope someone else will benefit from my layman's approach to a topic
+* improve my writing ability
 
-The text is stored on github and written in markdown (helped with Jekyll).  The beauty of this approach is anyone can take a topic, fork it and improve; hence the title...but not that I expect it to happen!
+I aim to objective and base my writing on reputable sources.  
+
+The goal is to write on a topic once a month and about 500 words.  
+
+The blog source is kept on [github](https://github.com/wellsst/wellsst.github.io) and written in markdown (helped with Jekyll).  If you grab the source you can run locally with `bundle install` and then `bundle exec jekyll serve`
+
+If you disagree or find an issue then fork and PR it, I'll review.  The beauty of this approach is anyone can take a topic, fork it and improve; hence the title.
