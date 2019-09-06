@@ -2,7 +2,7 @@
 layout: post
 title:  "Blockchain and its non-Bitcoin application"
 date:   2019-06-01 15:18:27 +1000
-categories: blockchain bitcoin
+categories: software blockchain bitcoin
 ---
 
 Still very much a Work in progress, will take months but getting it out there since time is up this month...

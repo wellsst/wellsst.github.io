@@ -2,7 +2,7 @@
 layout: post
 title:  "Preserves Jams WTD Whats the Diff??"
 date:   2019-08-11 15:18:27 +1000
-categories: food wtd jams
+categories: wtd food jams
 ---
 
 # WTD - Preserves/Jams

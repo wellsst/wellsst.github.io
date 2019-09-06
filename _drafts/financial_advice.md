@@ -2,7 +2,7 @@
 layout: post
 title:  "Financial advice getting ahead in money terms and retiring early"
 date:   2019-08-02 15:18:27 +1000
-categories: finances money retiring
+categories: finance money retiring
 ---
 
 # Getting ahead in $ terms

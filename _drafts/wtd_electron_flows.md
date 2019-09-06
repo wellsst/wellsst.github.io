@@ -2,7 +2,7 @@
 layout: post
 title:  "WTD - Electrical terms"
 date:   2019-02-11 15:18:27 +1000
-categories: wtd physics electons electricity
+categories: wtd physics electons electricity science
 ---
 
 # WTD - Terms of electricity

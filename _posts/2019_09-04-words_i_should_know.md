@@ -2,7 +2,7 @@
 layout: post
 title:  "Words I should know"
 date:   2019-02-11 15:18:27 +1000
-categories: words language english
+categories: language words english
 ---
 
 # Words I should know...

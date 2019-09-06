@@ -2,7 +2,7 @@
 layout: post
 title:  "Gravity - a simplified explainer"
 date:   2019-03-04 15:18:27 +1000
-categories: gravity physics Einstein relativity time spacetime
+categories: physics gravity  Einstein relativity time spacetime
 ---
 
 # Gravity explainer

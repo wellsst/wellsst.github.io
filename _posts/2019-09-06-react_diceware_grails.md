@@ -2,24 +2,26 @@
 layout: post
 title:  "React with Grails on Heroku"
 date:   2019-08-19 00:00:00 +1000
-categories: react Grails Heroku
+categories: software react Grails Heroku
 ---
 
 # React with Grails on Heroku
 
+![Grails]({% link assets/grails_react.png %} "Grails React")
 
-![Jams](https://mir-s3-cdn-cf.behance.net/project_modules/1400/d728a138739917.57725e810ba47.jpg "Jams")
-
-<p style="font-size: 0.9rem;font-style: italic;"><a href="https://www.behance.net/gallery/38739917/O-Jam">"O' Jam"</a><span> by <span>Mie Le</span></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 4.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;opacity: .7;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
 
 ## Intro
 
 Last year [I wrote about how I'd deployed a demo app using one of my favourite stacks, Angular and Grails](https://medium.com/@wellsst/angular-with-grails-on-heroku-211e35177804), and had it deployed to [Heroku](https://www.heroku.com/).  I still like using [Grails](https://grails.org/) as a basis for apps, it just has such a logic feel and way to work; backed by [Spring Boot](https://spring.io/projects/spring-boot) and [Groovy](https://groovy-lang.org/) it provides a fast, scalable and reliable path to create an application of any complexity.  Now with the increasing popularity of [Facebook's React](https://reactjs.org/) frontend framework I just had to rewrite this project with React in the frontend.
 
+What we are shooting for will look like:
+
+![Grails]({% link assets/grails_react_diceware_screen.png %} "Grails React")
+
 
 ## Getting started
 
-Now Grails is up to its 4.x release line I also decided to use this version.  A very easy way to dip your toe into the waters of Grails is using the [Grails Application Forge](http://start.grails.org/).
+Now Grails is only just (at Sept 2019) up to its 4.x release line but I also decided to use 3.3.x.  A very easy way to dip your toe into the waters of Grails is using the [Grails Application Forge](http://start.grails.org/).
 
 ![alt text]({{ site.url }}/grails_forge.png "Title")
 
@@ -415,159 +417,9 @@ const client = new ApolloClient({
 
 ## Additional Points
 
-You can see that the app morphed a little from when it was using Angular: https://medium.com/@wellsst/angular-with-grails-on-heroku-211e35177804 .  OVerall I really like using React, it seems simpler, cleaner and more logical (than Angular) which *should* lead to a faster product release and more reliable product.  Angular has lost its way, its just become plain confusing and with each release even though the features are good it becomes difficult to stay in tune with, especially when you don't use it on a daily basis.
+You can see that the app morphed a little from when it was using Angular: https://medium.com/@wellsst/angular-with-grails-on-heroku-211e35177804 .  Overall I really like using React, it seems simpler, cleaner and more logical (than Angular) which *should* lead to a faster product release and more reliable product.  Angular has lost its way, its just become plain confusing and with each release even though the features are good it becomes difficult to stay in tune with, especially when you don't use it on a daily basis.
 
-
-## Bundling this up for deployment to the cloud
-
-This is where a couple of tricks came in handy. The Heroku Gradle documentation is a great place to start reading to get an overview, but since this is a Grails multi-project build there are a couple of other things to do.
-
-### Setup environment variables
-
-So far we've been developing locally in 'development' but when we deploy to the cloud it will likely be into the live or production environment.  Each will have separate locations for the GraphQL and DB server.
-
-In React create 2 files...
-
-`.env`
-
-```
-REACT_APP_GRAPHQL_SERVER_URL=http://localhost:8080/graphql
-```
-
-`.env.production`
-
-```
-REACT_APP_GRAPHQL_SERVER_URL=/graphql
-```
-
-Update in `index.js`
-
-```javascript
-const httpLink = createHttpLink({
-    uri: process.env.REACT_APP_GRAPHQL_SERVER_URL
-})
-```
-
-Restart your client process and you should see no difference, this is good, you didn't break anything!  
-
-For a more in depth read on this see: [Adding Custom Environment Variables](https://create-react-app.dev/docs/adding-custom-environment-variables)
-
-For the database in Grails:
-
-Add a dependency to server/build.gradle for the SQL driver:
-`compile group: 'org.postgresql', name: 'postgresql', version: '42.2.2'`
-
-point your Grails production environment setup to Postgres, just add a file in: `server/grails-app/conf/application.groovy`
-
-Set its contents to:
-
-```groovy
-environments {
-    production {
-        dataSource {
-            dbCreate = "update"
-            driverClassName = "org.postgresql.Driver"
-            dialect = org.hibernate.dialect.PostgreSQL94Dialect
-            uri = new URI(System.env.DATABASE_URL?:"postgres://localhost:5432/test")
-            url = "jdbc:postgresql://" + uri.host + ":" + uri.port + uri.path + "?sslmode=require"
-            username = uri.userInfo.split(":")[0]
-            password = uri.userInfo.split(":")[1]
-        }
-    }
-}
-```
-
-DB setup on the Heroku side:
-
-[Heroku supports PostgreSQL and is well documented](https://devcenter.heroku.com/articles/heroku-postgresql)
-
-This is so easy to turn on:
-heroku addons:create heroku-postgresql:hobby-dev
-
-I also had to edit the application.yml file so the driverClassName was not set for all environments, ie move it to just under the development environment (I didn’t think should be the case but be aware)
-
-In the `client/build.gradle`:
-Update the version of moowork (Gradle plugin for executing node scripts):
-```
-plugins {
-    id "com.moowork.node" version "1.3.1"
-}
-```
-
-Add:
-
-```
-task buildClient(type: YarnTask, dependsOn: 'yarn') {
-    group = 'build'
-    description = 'Compile client side assets for production'
-    args = ['run', 'build']
-}
-```
-
-`server/build.gradle`:
-Add dependencies:
-
-```
-compile 'com.github.jsimone:webapp-runner:8.5.43.1'
-provided "org.springframework.boot:spring-boot-starter-tomcat"
-```
-
-Add extra tasks for bundling:
-```
-task stage() {
-    dependsOn clean, war            
-}
-war.mustRunAfter clean
-
-task copyToLib(type: Copy) {
-    into "$buildDir/server"
-    from(configurations.compile) {
-        include "webapp-runner*"
-    }
-}
-
-war.dependsOn(':client:buildClient');
-war {
-    baseName = 'diceware'    // otherwise this is 'server'
-    version = project.version // + '.' + System.currentTimeMillis();   // I simply prefer to append a ms timestamp in case I've run multiple builds
-
-    // Finally, include the files from the client:
-    from('../client/dist') {
-        include '**/*'
-        //into('WEB-INF')
-    }
-}
-
-stage.dependsOn(copyToLib)
-
-```
-
-Define a “Procfile” in the root of the project and name it exactly as “Procfile”, give it the contents:
-`web: cd server/build ; java -Dgrails.env=prod -jar ../build/server/webapp-runner-*.jar --expand-war --port $PORT libs/*.war`
-
-To have a deployable WAR file that includes all Angular assets put in the right place you can run:
-> gradle assemble
-
-To push to your Heroku app the first time (from your base project folder):
-> heroku login
-> heroku create
-> git commit -am "Initial commit..."
-> git push heroku master
-
-Then wait for it to do its thing. It will report success or fail and give the URL to check the running app.
-
-For subsequent builds, change your code, commit it and then:
-> gradle assemble && git push -f heroku master && heroku logs -t
-> 
-Login to the Heroku dashboard and check the logs for any errors.
-
-https://limitless-waters-44337.herokuapp.com/ | https://git.heroku.com/limitless-waters-44337.git
-
-
-## For further investigation
-
-* 
-
+Next Part I'll show how to deploy this to the cloud.
 
 ## Deeper reading - references
 

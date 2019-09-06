@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-02-11 15:18:27 +1000
-categories: jekyll update
+categories: science jekyll update
 ---
 
 # The Dinosaurs went extinct in June
@@ -20,6 +20,8 @@ Birds are dinos
 https://www.amazon.com/Dinosaurs-Rediscovered-Scientific-Revolution-Paleontology/dp/050005200X
 
 https://www.newyorker.com/magazine/2019/04/08/the-day-the-dinosaurs-died
+
+https://www.universal-sci.com/headlines/2019/9/4/scientists-discovered-an-extinction-larger-than-that-of-the-dinosaurs
 
 ## Disclaimer
 

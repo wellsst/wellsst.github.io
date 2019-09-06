@@ -2,7 +2,7 @@
 layout: post
 title:  "Maxwells demons"
 date:   2019-07-23 15:18:27 +1000
-categories: physics thermodynamics
+categories: physics thermodynamics science
 ---
 
 # Maxwells Demons
