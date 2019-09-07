@@ -18,7 +18,6 @@ What we are shooting for will look like:
 
 ![Grails]({% link assets/grails_react_diceware_screen.png %} "Grails React")
 
-
 ## Getting started
 
 Now Grails is only just (at Sept 2019) up to its 4.x release line but I also decided to use 3.3.x.  A very easy way to dip your toe into the waters of Grails is using the [Grails Application Forge](http://start.grails.org/).
