@@ -59,6 +59,8 @@ const httpLink = createHttpLink({
 })
 ```
 
+Note that custom variables declared this way must start with `REACT_APP_`
+
 Restart your client process and you should see no difference, this is good, you didn't break anything!  
 
 For a more in depth read on this see: [Adding Custom Environment Variables](https://create-react-app.dev/docs/adding-custom-environment-variables)
