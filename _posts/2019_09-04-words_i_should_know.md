@@ -30,6 +30,10 @@ categories: language words english
 **cathartic** - *providing psychological relief through the open expression of strong emotions; causing catharsis.*
 > "crying is a cathartic release"
 
+
+**ostensible** - *stated or appearing to be true, but not necessarily so.*
+> "the real dispute which lay behind the ostensible complaint"
+
 **secular** - *not connected with religious or spiritual matters*, *non-religious*
 >
 
