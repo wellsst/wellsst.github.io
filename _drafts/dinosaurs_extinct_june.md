@@ -11,7 +11,7 @@ We just don't know what year.
 
 TODO: Insert image
 
-List all extinctions in brief...
+List all extinctions in brief...https://www.universal-sci.com/headlines/2018/12/12/a-supernova-26-million-years-ago-could-have-wiped-out-the-oceans-large-animals
  
 How this one occured and how we know
 

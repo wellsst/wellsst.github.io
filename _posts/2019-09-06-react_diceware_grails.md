@@ -22,7 +22,7 @@ What we are shooting for will look like:
 
 Now Grails is only just (at Sept 2019) up to its 4.x release line but I also decided to use 3.3.x.  A very easy way to dip your toe into the waters of Grails is using the [Grails Application Forge](http://start.grails.org/).
 
-![alt text]({{ site.url }}/grails_forge.png "Title")
+![alt text]({% link assets/grails_forge.png%} "Title")
 
 Here you'll see other options such as using sdkman and the Grails CLI, but for many this will be the simplest option. The best option though is for IntelliJ IDEA users, a simple description is given on the App Forge (just scroll down a little)
 
