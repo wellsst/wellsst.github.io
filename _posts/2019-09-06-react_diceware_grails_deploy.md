@@ -152,7 +152,7 @@ stage.dependsOn(copyToLib)
 
 ```
 
-You can run `gradle stage` and all going well you'll have a runnable war file in the `server/build/libs` folder.
+You can run `gradle assemble` and all going well you'll have a runnable war file in the `server/build/libs` folder.
 
 Test this locally with the [Webapp runner](https://github.com/jsimone/webapp-runner) with something like: `java -Dgrails.env=prod -jar server/build/server/webapp-runner-*.jar --port 8099 server/build/libs/*.war`, you will need to setup a DB as well though.  There's also a Jetty runner available.
 
@@ -160,9 +160,9 @@ Test this locally with the [Webapp runner](https://github.com/jsimone/webapp-run
 
 ![PCF](https://www.cloudfoundry.org/wp-content/uploads/2017/01/provider-tile-pivotal.jpg "PCF")
 
-[Create a Pivotal Account](https://account.run.pivotal.io/z/uaa/sign-up), quick simple and no obligation
+[Create a Pivotal Account](https://account.run.pivotal.io/z/uaa/sign-up), quick, simple and no obligations
 
-Hint: Subsequent logins select eh "Web Services" option to find your applicaitons etc.
+Hint: Subsequent logins select the "Web Services" option to find your applications etc.
 
 Another good place to start is the short [getting started tutorial](https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/introduction), always a good idea to get the basics and ensure you have everything in order before we get to the harder stuff AND this includes installing the CF CLI - essential so do it now.  
 
@@ -199,14 +199,14 @@ Run `cf create-service elephantsql turtle postgresql`. This creates a service in
 
 Similar options to this are also available via https://console.run.pivotal.io, select marketplace and find the services you require, this will also list capacities and prices for the other plans for each service.
 
-The service also needs to be bound but this is already done the the `manifest.yml`, otherwise us `cf bind-service` or the WebUI.
+The service also needs to be bound but this is already done in the `manifest.yml`, otherwise us `cf bind-service` or the WebUI.
 
 ### Deploy it
 
 Its a simple 3 steps:
 
 1. `gradle assemble` - Build fresh
-2. `cf push` - Push the build up to the remote
+2. `cf push diceware` - Push the build up to the remote, and diceware is the name of the app being created
 3. `cf logs diceware --recent` - View the logs
 
 Put it all together into one command line:
