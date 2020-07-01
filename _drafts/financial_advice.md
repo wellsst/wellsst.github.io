@@ -114,6 +114,35 @@ If you get > 0 then well done to you.
 
 Adding to this think about averaging this out over years.  In your early "retirement", you may get a positive cash flow, but as you get older and as time moves on things change and it's likely you'll get a negative cash flow and that is ok if you have a big enough war chest of funds.
 
+Nine things investors should remember
+• Make the most of the power of compound interest. Saving
+regularly in growth assets can grow wealth substantially
+over long periods. Using the “rule of 72”, it will take 48 years
+to double an asset’s value if it returns 1.5% pa (ie 72/1.5)
+but only 9 years if the asset returns 8% pa.
+• Don’t get thrown off by the cycle. Falls in asset markets can
+throw investors out of a well thought out strategy at the
+wrong time - as some were at the end of 2018.
+• Invest for the long term. Given the difficulty in getting short
+term market moves right, for most it’s best to get a long-term
+plan that suits your wealth, age & risk tolerance & stick to it.
+• Diversify. Don’t put all your eggs in one basket.
+• Turn down the noise. Increasing social media and the
+competition for your eyes and ears is creating a lot of noise
+around investing that is really just a distraction.
+• Buy low, sell high. The cheaper you buy an asset, the higher
+its prospective return will likely be and vice versa.
+• Beware the crowd at extremes. Don’t get sucked into the
+euphoria or doom and gloom around an asset.
+• Focus on investments that you understand and that offer
+sustainable cash flow. If it looks dodgy, hard to understand
+or has to be based on odd valuation measures or lots of
+debt to stack up then it’s best to stay away.
+• Accept that it’s a low nominal return world – when inflation is
+1.5%, a 15% superannuation return is very pretty good (and
+not sustainable at that rate).
+
+
 ## Disclaimer
 
 I am not a financial advisor
